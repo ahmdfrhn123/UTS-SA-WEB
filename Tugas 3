@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <script src="script.js"></script>
+  <h1>UWG Nih Bos</h1>
+  <h2>UWG Nih Bos</h2>
+  <h3>UWG Nih Bos</h3>
+  <h4>UWG Nih Bos</h4>
+  <h5>UWG Nih Bos</h5>
+  <h6>UWG Nih Bos</h6>
+  <p><d> Sholikin </d> sedang <strong> membuat </strong> halaman html menggunakan <i> visual code </i> bersama <u> Aji dan Sulton </u></p>
+  <a href="https://shopee.co.id/?gclid=CjwKCAjw-rOaBhA9EiwAUkLV4tvKFlX99XfQx87cHgu03KMtrxsprkdg0hiPXnmTq20GVWL_pHeGZxoCHC4QAvD_BwE"> menuju ke website google.com tapi shopee
+    <h2> Foto Rel Kereta Api </h2>
+    <img src="tom-barrett-wqQ4NNG_J28-unsplash.jpg" alt="Foto Rel Kereta Api " height="250px" width="250px"> 
+    <ol> 
+    <li> Teknik Informatika </li>
+    <li> Sistem Aplikasi Web</li>
+      <li> Subhanallah </li>
+    </ol>
+    <ul> 
+    <li> semoga cepet lulus</li>
+      <li> Dengan lancar</li>
+      <li> Mata kuliah ini dapat A</li>
+    </ul>
+ <table border="1">
+   <thead> 
+   <tr> 
+   <th rowspan="2"> Nama </th>
+     <th rowspan="2"> NIM </th>
+     <th colspan="2"> Nilai </th>
+   </tr>
+     <th> PHP </th>
+     <th> HTML </th>
+   </thead>
+   <tbody>
+     <td> Tri </td>
+     <td> 123456789</td>
+     <td> A</td>
+     <td> A</td>
+     <tr>
+       <td> Subhan </td>
+       <td> 0123868487</td>
+       <td> A</td>
+       <td> A </td>
+     </tr> 
+     <form action="/mahasiswa" method="post">
+       <label for="name"> Nama </label>
+       <input type="text" name="Nama" id="Nama"> 
+       <br> 
+       <label for="Nim"> NIM </label>
+       <input type="text" name="Nim" id="Nim"> 
+       <br> 
+       <input type="radio" name="bahasa" id="php" value="PHP" >
+       <label for="php"> PHP </label>
+       <input type="radio" name="bahasa" id="html" value="HTML" >
+       <label for="html"> HTML </label>
+       <br> 
+       <label for="nilai"> Nilai </label>
+       <select name="nilai" id="nilai">
+         <option> A</option>
+         <option> B</option>
+         <option> C</option>
+         <option> D </option>
+       </select>
+       
+   </tbody>
+ </table>
+   
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
