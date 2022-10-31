@@ -1,0 +1,35 @@
+<!DOCTYPEhtml>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Belajar Array</title>
+  </head>
+  <body>
+
+    <h1> Array PHP </h1>
+
+    <?php 
+//type data array
+$angka = ["5", "10", "2", "12"];
+$kotak = array ("kelereng", "yoyo", "bola", "boneka", "kelereng");
+$nama = ["Ubay", "Yahya", "Sholikin"];
+//print_r($kotak);\
+//print $kotak[4];
+//print $nama[2];
+
+//METODE ARRAY
+//array_unique, _reverse, shuffle, count, sort
+//shuffle($kotak);
+sort($angka);
+print_r($angka);
+
+//echo count($nama);
+
+
+
+
+
+
+?>
+  </body>
+</html>
